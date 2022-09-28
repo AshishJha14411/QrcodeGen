@@ -5,7 +5,7 @@ This is a simple QR code generator created using an api called api.qrserver. We 
 
 1 hour approximately
 
-[Live Demo](https://jokegen-akj.netlify.app/)
+[Live Demo](https://qrcodegen-akj.netlify.app/)
 
 ### SnapShot of the program
 
